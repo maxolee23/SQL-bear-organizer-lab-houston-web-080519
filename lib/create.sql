@@ -8,5 +8,3 @@ CREATE TABLE bears (
       temperament TEXT,
       alive BOOLEAN
 );
-
-cheese 
